@@ -1,0 +1,6 @@
+{
+  "name": "Songscription AI - Audio to Sheet Music & MIDI",
+  "description": "AI-powered music transcription: convert audio and songs into interactive sheet music, piano rolls, guitar tabs, chords, and MIDI files.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
